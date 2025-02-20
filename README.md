@@ -1,6 +1,6 @@
 # Postman API Fundamentals Student Expert Certification Guide
 
-![Postman Student Expert Badge]([https://www.postman.com/assets/images/students/student-expert-badge.svg](https://badgr.com/public/assertions/EJIBQ4kvQOOAVfFLwEoaZw))
+
 
 ## Overview
 This repository provides a step-by-step guide to help you clear the **Postman API Fundamentals Student Expert** certification. By following these instructions, you will gain hands-on experience with Postman and API testing concepts, earning an official certification from Postman.
